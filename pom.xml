@@ -91,7 +91,7 @@
     <dependency>
       <groupId>com.blackducksoftware.integration</groupId>
       <artifactId>blackduck-common</artifactId>
-      <version>42.6.0</version>
+      <version>45.0.5</version>
       <exclusions>
         <exclusion>
           <groupId>com.blackducksoftware.integration</groupId>
@@ -107,7 +107,7 @@
     <dependency>
       <groupId>commons-io</groupId>
       <artifactId>commons-io</artifactId>
-      <version>2.6</version>
+      <version>2.7</version>
     </dependency>
     <dependency>
       <groupId>stax</groupId>
@@ -126,7 +126,7 @@
     <dependency>
       <groupId>com.blackducksoftware.integration</groupId>
       <artifactId>integration-common</artifactId>
-      <version>17.0.0</version>
+      <version>18.0.1</version>
     </dependency>
     <dependency>
       <groupId>org.slf4j</groupId>
